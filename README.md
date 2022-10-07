@@ -8,7 +8,7 @@ Martin E Héroux<sup>2,4</sup>
 <sup>1</sup>School of Medical Sciences, Faculty of Medicine and Health, The University of Sydney, New South Wales, Australia \
 <sup>2</sup>Neuroscience Research Australia (NeuRA), Sydney, New South Wales, Australia \
 <sup>3</sup>School of Health Sciences, Faculty of Medicine and Health, The University of Sydney, New South Wales, Australia \
-<sup>4</sup>School of Medical Sciences, University of New South Wales, New South Wales, Australia  
+<sup>4</sup>School of Medical Sciences, University of New South Wales, New South Wales, Australia
 
 
 ## Suggested citation
@@ -26,12 +26,14 @@ The description, data and code of the related study are available from the GitHu
 
 ## Data
 
-Raw data to generate Fig 1 are available from the **data -> raw** folder in the zipped folder "sub22.zip" in this GitHub repository in these formats:
+Raw data to generate Fig 1 are available in the zipped folder "sub22.zip" from the Open Science Foundation repository
+[https://osf.io/wt7z8/][osf] in these formats:
 * Spike2 .smr 
 * Matlab .mat 
 * Text .txt
 
-Unzip the subject data folder into this location. 
+Unzip the subject data folder and place it in **data -> raw**. 
+(Create the **raw** folder if it does not exist)
 
 Processed data to generate Figs 2 and 3 are available from the **data -> proc** folder as the files: 
 * subjects_data.csv
@@ -112,6 +114,6 @@ Fig 3. is generated using data from "subjects_data.csv", saved as PNG and SVG fi
 
 [rego]: https://osf.io/7f3nk
 [Kishimoto]: https://github.com/joannadiong/Kishimoto_et_al_2021_JAP
-[osf]: https://osf.io/wt7z8/ 
+[osf]: https://osf.io/wt7z8/
 [spike2py]: https://github.com/MartinHeroux/spike2py
 [pycharm]: https://www.jetbrains.com/pycharm/promo/?gclid=Cj0KCQiAtqL-BRC0ARIsAF4K3WFahh-pzcvf6kmWnmuONEZxi544-Ty-UUqKa4EelnOxa5pAC9C4_d4aAisxEALw_wcB 
