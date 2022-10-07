@@ -1,0 +1,10 @@
+
+
+SO
+Mean difference 0.00, p_value 0.80
+
+MG
+Mean difference 0.00, p_value 0.94
+
+LG
+Mean difference -0.01, p_value 0.44

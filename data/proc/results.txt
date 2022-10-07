@@ -1,0 +1,10 @@
+
+
+slopes_SO
+Mean 8.72, 95% CI 6.88 to 11.04, 95% PI 2.51 to 30.27
+
+slopes_MG
+Mean 13.36, 95% CI 10.49 to 17.03, 95% PI 3.73 to 47.89
+
+slopes_LG
+Mean 11.43, 95% CI 9.35 to 13.98, 95% PI 3.96 to 32.99
